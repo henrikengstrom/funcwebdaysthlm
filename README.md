@@ -10,6 +10,7 @@ Start by cloning this repo:
   
 `~> git clone git@github.com:henrikengstrom/funcwebdaysthlm.git`
 
+
 The next step is to download Typesafe Activator: 
 
 <http://typesafe.com/platform/getstarted>
